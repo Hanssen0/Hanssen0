@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=hanssen0&theme=gruvbox&no-bg=true&no-frame=true&rank=-B,-C)](https://github.com/ryo-ma/github-profile-trophy)
+
 # Hanssen's Whim
 
 Not all types of programming are fun. Keyboards are the piano of coders, and I love to play the improvisation in my head.
